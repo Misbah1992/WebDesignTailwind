@@ -1,15 +1,14 @@
 import { useState } from 'react'
-import Navbar from './components/Navbar'
 
 
-function App() {
+function SolutionSection() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <Navbar/>
+      <div>SolutionSection</div>
     </>
   )
 }
 
-export default App
+export default SolutionSection

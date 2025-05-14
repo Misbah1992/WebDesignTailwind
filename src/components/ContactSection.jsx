@@ -1,15 +1,14 @@
 import { useState } from 'react'
-import Navbar from './components/Navbar'
 
 
-function App() {
+function ContactSection() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <Navbar/>
+      <div>ContactSection</div>
     </>
   )
 }
 
-export default App
+export default ContactSection
