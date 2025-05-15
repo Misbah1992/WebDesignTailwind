@@ -12,11 +12,11 @@ function Navbar() {
       }}>
         <div className="flex items-center px-4">
           <img src="../src/assets/Vector(5).png" className='h-4 px-2' />
-          <div > Mon - Fri : 09am to 11pm </div>
+          <div className='text-sm'> Mon - Fri : 09am to 11pm </div>
         </div>
         <div className="flex items-center pl-4">
           <img src="../src/assets/Vector(4).png" className='h-4 px-2' />
-          <div > 03056789971 </div>
+          <div className='text-sm'> 03056789971 </div>
         </div>
         <img src="../src/assets/image22.png" className='h-6 px-8' />
       </div>

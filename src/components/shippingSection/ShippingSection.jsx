@@ -7,7 +7,8 @@ function ShippingSection() {
   return (
     <>
       <div className='h-[95vh] w-[100%] bg-white flex items-center justify-center'>
-        <div className='h-[75%] w-[75%] bg-gray-100 flex items-center justify-evenly'>
+         <img src="../src/assets/Image.png" className='w-full h-full object-cover absolute'/>
+        <div className='h-[75%] w-[75%] bg-gray-100 flex items-center justify-evenly z-10'>
           <div className='h-[95%] w-[47.5%] bg-red-100 relative'>
             <img src="../src/assets/image23.png " className='w-full h-full object-cover' />
           </div>
