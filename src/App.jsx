@@ -1,6 +1,10 @@
 import { useState } from 'react'
 import Navbar from './components/navbar/Navbar'
 import HeroSection from './components/heroSection/HeroSection'
+import ShippingSection from './components/shippingSection/ShippingSection'
+import AboutSection from './components/aboutSection/AboutSection'
+import ChooseSection from './components/chooseSection/ChooseSection'
+
 
 
 function App() {
@@ -10,6 +14,9 @@ function App() {
     <>
       <Navbar/>
       <HeroSection/>
+      <ShippingSection/>
+      <AboutSection/>
+      <ChooseSection/>
     </>
   )
 }

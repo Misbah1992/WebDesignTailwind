@@ -22,14 +22,13 @@ function Navbar() {
       </div>
       {/* ////////////////////////////////////// */}
       <div className="w-full h-10 bg-white-100 border-b-2 border-gray-50">
-        <div className="w-full h-10 flex items-center justify-end px-32 font-medium text-sm" style={{color:"#1181A1",fontFamily:"sans-serif"}}>
+        <div className="w-full h-10 flex items-center justify-end px-32 font-semibold text-sm" style={{ color: "#1181A1" }}>
           <div className="flex items-center mr-8" >
             <div className='pr-24'>Home</div>
             <div className='pr-24'>About Us</div>
             <div className='pr-24'>Contact</div>
             <div >Service</div>
           </div>
-         
 
         </div>
       </div>
