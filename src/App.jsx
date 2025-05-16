@@ -9,7 +9,7 @@ import ContactSection from './components/contactSection/ContactSection'
 import SolutionSection from './components/solutionSection/SolutionSection'
 import TransportSection from './components/transportSection/TransportSection'
 import FormSection from './components/formSection/FormSection'
-
+import FooterSection from './components/footerSection/FooterSection'
 
 
 function App() {
@@ -27,6 +27,8 @@ function App() {
       <PracticeSection/>
       <ContactSection/>
       <FormSection/>
+      <FooterSection/>
+      
     </>
   )
 }

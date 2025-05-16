@@ -22,7 +22,7 @@ function ChooseSection() {
               <div className='text-xl text-gray-400 font-bold'>01</div>
               <div className='pl-3'>
                 <div className='text-lg text-gray-600 font-bold'>Experienced Driver</div>
-                <div className='pt-2 text-medium text-gray-400 font-normal'>You are our priority. We Provide our services 24/7. If you
+                <div className='pt-2 text-sm text-gray-400 font-normal'>You are our priority. We Provide our services 24/7. If you
                   are not comfortable to drive a car yourself and looking for
                   renting a car in Karachi. Whether you need to hire a car
                   with driver or without driver in Pakistan for an airport
@@ -35,7 +35,7 @@ function ChooseSection() {
               <div className='text-xl text-gray-400 font-bold'>02</div>
               <div className='pl-3'>
                 <div className='text-lg text-gray-600 font-bold'>Quick Service </div>
-                <div className='pt-2 text-medium text-gray-400 font-normal'>You are our priority. If you are not comfortable with
+                <div className='pt-2 text-sm text-gray-400 font-normal'>You are our priority. If you are not comfortable with
                    driver and looking for renting a car in  Karachi. Whether you need to hire a car with driver or without 
                    driver in Karachi for an airport transfer, a trip, a business meeting or a casual travel we will deliver 
                    an attractive offer for your chauffeured service.</div>

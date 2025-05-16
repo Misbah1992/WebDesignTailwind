@@ -19,7 +19,7 @@ function ContactSection() {
           <div className='text-xs text-white font-bold'>LOGISTICS EXPERTS</div>
           <div className='text-4xl text-white font-light'>Call us now</div>
           <div className='text-4xl text-white font-bold'>+1 800 555 24 74</div>
-          <div className='text-xs text-gray-700 bg-white font-bold w-44 px-8 py-4 mt-[5%] text-center'>
+          <div className='text-xs text-gray-700 bg-white font-bold w-44 px-8 py-4 mt-[5%] text-center border border-2 border-white hover:bg-transparent hover:text-white z-10'>
             Contact Us
           </div>
         </div>

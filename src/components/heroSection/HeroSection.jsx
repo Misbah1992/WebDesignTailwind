@@ -11,7 +11,7 @@ function HeroSection() {
           <div className='text-xs text-white font-bold'>EFFICEINT TRANSPORT LOGISTICS</div>
           <div className='text-6xl text-white font-bold'>Innovative Logistics<br />
             For Transportation</div>
-          <div className='text-xs text-white font-bold border border-white w-44 px-8 py-4 mt-[5%] text-center' >
+          <div className='text-xs hover:bg-cyan-700 text-white hover:border-cyan-700 font-bold border border-white w-44 px-8 py-4 mt-[5%] text-center' >
             Explore Options
           </div>
         </div>

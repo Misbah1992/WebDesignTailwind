@@ -1,0 +1,20 @@
+
+@keyframes slideRightLeft {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(-25rem); 
+  }
+  100% {
+    transform: translateX(0); 
+  }
+}
+
+.truckimg {
+position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 5rem;
+  animation: slideRightLeft 6s infinite ease-in-out;
+}

@@ -18,12 +18,12 @@ function SolutionSection() {
             <img src="../src/assets/image26.png" className='h-[50%] absolute bottom-[10%] right-0'/>
           </div>
           <div className='w-[47%] h-[100%] flex flex-col justify-center'>
-            <div className='text-xs text-gray-700 font-bold'>LOGISTICS EXPERTS</div>
+            <div className='text-xs text-gray-700 font-bold'>EFFICIENT SOLUTIONS</div>
             <div className='text-4xl text-gray-700 font-semibold'>Effortless and swift<br />cargo transportation</div>
             <div className='text-sm text-gray-600 font-light my-4'>Integrate Services for online purchase and payment of<br />
               vehicles through auctions and transferring it to our <br />
               warehouses all around the Us, and by then to the designated<br /> location of our customers..</div>
-            <div className='text-xs text-white bg-white font-bold w-44 px-8 py-4 mt-[5%] text-center' style={{ backgroundColor: "#1181A1" }}>
+            <div className='text-xs text-white bg-cyan-700 hover:bg-white hover:text-cyan-700 border border-2 border-white hover:border-cyan-700 font-bold w-44 px-8 py-4 mt-[5%] text-center hover:bg-white z-10'>
               Contact Us
             </div>
           </div>

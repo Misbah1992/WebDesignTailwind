@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Carousel from '../carousel/Carousel'
 
 
 function TransportSection() {
@@ -16,7 +17,10 @@ function TransportSection() {
             <div className='text-sm text-white font-light my-4'>Sed ut perspiciatis unde omnis iste natus ut perspic iatis unde<br />
               omnis iste perspiciatis ut perspiciatis.</div>
           </div>
-          <div>sd</div>
+          <div className='w-[100%] '>
+           <Carousel/>
+            
+          </div>
           <div className='flex w-[100%] justify-between items-center'>
             <div className=' flex items-center justify-center'>
               <div className='text-white text-lg font-semibold absolute'>Projects</div>
