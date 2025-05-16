@@ -19,35 +19,35 @@ function HeroSection() {
         <img src="../src/assets/image15.png" className="w-full h-full object-cover" />
         <div className='absolute bottom-0 w-full h-[12%] bg-red-500 z-10 opacity-75 flex justify-evenly items-center' style={{ backgroundColor: "#212529" }}>
           <div className='flex items-center'>
-            <img src="../src/assets/Vector(11).png" className='h-8 px-6'/>
+            <img src="../src/assets/Vector(11).png" className='h-8 2xl:px-6 xl:px-4'/>
             <div>
-              <div className='text-base text-white font-medium'>Ground Freight</div>
-              <div className='text-sm text-white font-normal'>Safe raod transportation</div>
+              <div className='2xl:text-base text-white font-medium'>Ground Freight</div>
+              <div className='2xl:text-sm xl:text-xs text-white font-normal'>Safe raod transportation</div>
             </div>
           </div>
           <div className='h-[60%] w-1 bg-gray-400'></div>
           <div className='flex items-center'>
-            <img src="../src/assets/Vector(12).png" className='h-8 px-6' />
+            <img src="../src/assets/Vector(12).png" className='h-8 2xl:px-6 xl:px-4' />
             <div>
-              <div className='text-base text-white font-medium'>Air Cargo</div>
-              <div className='text-sm text-white font-normal'>Rapid global delivery</div>
+              <div className='2xl:text-base text-white font-medium'>Air Cargo</div>
+              <div className='2xl:text-sm xl:text-xs text-white font-normal'>Rapid global delivery</div>
             </div>
 
           </div>
           <div className='h-[60%] w-1 bg-gray-400'></div>
           <div className='flex items-center'>
-            <img src="../src/assets/Vector(13).png" className='h-8 px-6' />
+            <img src="../src/assets/Vector(13).png" className='h-8 2xl:px-6 xl:px-4' />
             <div>
-              <div className='text-base text-white font-medium'>Ocean Freight</div>
-              <div className='text-sm text-white font-normal'>Effective sea shipping</div>
+              <div className='2xl:text-base text-white font-medium'>Ocean Freight</div>
+              <div className='2xl:text-sm xl:text-xs text-white font-normal'>Effective sea shipping</div>
             </div>
           </div>
           <div className='h-[60%] w-1 bg-gray-400'></div>
           <div className='flex items-center'>
-            <img src="../src/assets/Vector(14).png" className='h-8 px-6' />
+            <img src="../src/assets/Vector(14).png" className='h-8 2xl:px-6 xl:px-4' />
             <div>
-              <div className='text-base text-white font-medium'>Express Delivery</div>
-              <div className='text-sm text-white font-normal'>Reliable and fast service</div>
+              <div className='2xl:text-base text-white font-medium'>Express Delivery</div>
+              <div className='2xl:text-sm xl:text-xs text-white font-normal'>Reliable and fast service</div>
             </div>
           </div>
         </div>
