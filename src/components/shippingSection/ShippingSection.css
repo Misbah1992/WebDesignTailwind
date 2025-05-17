@@ -1,0 +1,15 @@
+@media only screen and (max-width: 1450px) {
+   #ship-content{
+   font-size: 10px;
+}
+}
+@media only screen and (max-width:1366px) {
+  #ship-content{
+   font-size: 9px;
+}
+}
+/* @media only screen and (max-width:1280px) {
+  #ship-content{
+   font-size: 8px;
+}
+} */
